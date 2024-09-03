@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Data Science, MS
+Data Science, MS </br>
 Mathematics and Computer Sciences, BS
 
 ### Work Experience
