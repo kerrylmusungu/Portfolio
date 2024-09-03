@@ -2,6 +2,7 @@
 
 ### Education
 Data Science, MS
+Mathematics and Computer Sciences, BS
 
 ### Work Experience
 Data Scientist @ Freelance
