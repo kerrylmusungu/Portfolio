@@ -1,12 +1,12 @@
 # Data Scientist
 
 ### Education
-Data Science, MS </br>
+<br> Data Science, MS </br>
 Mathematics and Computer Sciences, BS
 
 ### Work Experience
 Data Scientist @ Freelance
-- 
+- Data manipulation:  
 
 
 
@@ -22,5 +22,5 @@ cohesive and disciplined unit.
 and commitment to team success.
 
 ### Projects
- - Corona virus
+ - Coronavirus
 - House price prediction
