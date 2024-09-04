@@ -37,6 +37,6 @@ cohesive and disciplined unit.
 
 #### Data visualization with Tableau
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
-- d
+
 #### Capstone Project
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/DTSC691-Capstone-Project">Comparison of the impact of the coronavirus pandemic by continent and country</a> </li>
