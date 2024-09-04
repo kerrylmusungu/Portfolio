@@ -32,6 +32,7 @@ cohesive and disciplined unit.
 <br>
  
 #### Machine Learning Fundamentals
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Home-Price-Prediction-Project">Banglore home prices model</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
