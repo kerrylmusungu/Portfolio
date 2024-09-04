@@ -25,6 +25,7 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Halloween candy</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll">NYC payroll data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings">Fandango movie ratings</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Manipulation-Data-Cleaning-Preparation-using-Airbnb-Data">Data Cleaning & Preparation using Airbnb Data</a> </li>
 <br>
   
 #### SQL and PostgreSQL
