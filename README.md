@@ -22,7 +22,9 @@ cohesive and disciplined unit.
 
 ### Projects
 #### Data manipulation
-- Halloween-Candy: https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy
+- Halloween-Candy: <li class="masthead__menu-item">
+          <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Research</a>
+        </li>
 - NYC payroll data: https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll
 - Fandango movie ratings: https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings
 #### SQL and PostgreSQL
