@@ -22,23 +22,25 @@ cohesive and disciplined unit.
 
 ### Projects
 #### Data manipulation
-<tr>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Halloween candy</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll">NYC payroll data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings">Fandango movie ratings</a> </li>
-</tr>
+<br>
   
 #### SQL and PostgreSQL
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/PostgreSQL">Queries and databases</a> </li>
+ <br>
  
 #### Machine Learning (Prediction, Neural Network, Decision tree, Regression, Model optimization, and much more)
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
+<br>
 
 #### Data visualization with Tableau
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
+<br>
 
 #### Capstone Project
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/DTSC691-Capstone-Project">Comparison of the impact of the coronavirus pandemic by continent and country</a> </li>
