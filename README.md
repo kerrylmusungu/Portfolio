@@ -29,25 +29,22 @@ cohesive and disciplined unit.
   
 #### SQL and PostgreSQL
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/PostgreSQL">Queries and databases</a> </li>
- <br>
+<br>
  
 #### Machine Learning Fundamentals
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
-<br>
-
-#### Applied Machine Learning
-<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
-<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
-<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
-<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Multiple-Linear-Regression">Multiple Linear Regression</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Polynomial-Regression">Polynomial Regression</a> </li>
 <br>
 
 #### Data visualization with Tableau
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-visualization-gaming_platform_revenue">gaming_platform_revenue</a> </li>
 <br>
+
 
 #### Capstone Project
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/DTSC691-Capstone-Project">Comparison of the impact of the coronavirus pandemic by continent and country</a> </li>
