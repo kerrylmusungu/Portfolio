@@ -22,11 +22,10 @@ cohesive and disciplined unit.
 
 ### Projects
 #### Data manipulation
-- <li class="masthead__menu-item">
-          <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Halloween-Candy</a>
-          </li>
-- NYC payroll data: https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll
-- Fandango movie ratings: https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings
+- <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Halloween candy</a> </li>
+- <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll">NYC payroll data</a> </li>
+- <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings">Fandango movie ratings</a> </li>
+  
 #### SQL and PostgreSQL
 - Queries and databases: https://github.com/kerrylmusungu/PostgreSQL
 - 
