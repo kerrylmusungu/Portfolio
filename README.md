@@ -24,12 +24,23 @@ cohesive and disciplined unit.
 #### Data manipulation
 - Halloween-Candy: https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy
 - NYC payroll data: https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll
-
+- s
+#### SQL and PostgreSQL
+- d
+- d
+- 4
+- 
 #### Machine Learning 
 - House price prediction
 - k
 - s
 - s
 - s
+#### Data visualization with Tableau
+- d
+- d
+- d
+- d
+- d
 #### Capstone Project
 
