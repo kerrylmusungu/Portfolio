@@ -27,21 +27,16 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings">Fandango movie ratings</a> </li>
   
 #### SQL and PostgreSQL
-- Queries and databases: https://github.com/kerrylmusungu/PostgreSQL
-- 
-- 
-- 
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/PostgreSQL">Queries and databases</a> </li>
+ 
 #### Machine Learning (Prediction, Neural Network, Decision tree, Regression, Model optimization, and much more)
-- House price prediction (End to End project): https://github.com/kerrylmusungu/Home-Price-Prediction-Project
-- Exploring tree-based regression methods for 3D-Sinusoidal Data: https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data
-- Exploring Tree-Based Regression Methods for 2D Linear Data: https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data
-- Decision Tree Grid Search: https://github.com/kerrylmusungu/Decision-Tree-Grid-Search
-- Exploring 3D Sinusoidal Data using Artificial Neural Networks: https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks
-- 
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
+
 #### Data visualization with Tableau
-- Regional sales data visualization and insights storytelling: https://github.com/kerrylmusungu/Data-Visualization
-- d 
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
 - d
 #### Capstone Project
-- Comparison of the impact of the coronavirus pandemic by continent and country: https://github.com/kerrylmusungu/DTSC691-Capstone-Project
-
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/DTSC691-Capstone-Project">Comparison of the impact of the coronavirus pandemic by continent and country</a> </li>
