@@ -43,7 +43,7 @@ cohesive and disciplined unit.
 
 #### Data visualization with Tableau
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
-<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-visualization-gaming_platform_revenue">gaming_platform_revenue</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-visualization-gaming_platform_revenue">Gaming platform revenue</a> </li>
 <br>
 
 
