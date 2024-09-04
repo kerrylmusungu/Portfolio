@@ -21,7 +21,7 @@ Demonstrated exemplary conduct, respect for leadership, and effective time manag
 cohesive and disciplined unit.
 
 ### Projects
-#### Data manipulation
+#### Data manipulation: Python (Pandas, Numpy)
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy">Halloween candy</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll">NYC payroll data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings">Fandango movie ratings</a> </li>
