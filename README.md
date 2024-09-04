@@ -23,6 +23,13 @@ cohesive and disciplined unit.
 ### Projects
 #### Data manipulation
 - Halloween-Candy: https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy
-- 
-#### Coronavirus
+- NYC payroll data: https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll
+
+#### Machine Learning 
 - House price prediction
+- k
+- s
+- s
+- s
+#### Capstone Project
+
