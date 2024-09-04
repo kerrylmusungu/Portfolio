@@ -31,7 +31,14 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/PostgreSQL">Queries and databases</a> </li>
  <br>
  
-#### Machine Learning (Prediction, Neural Network, Decision tree, Regression, Model optimization, and much more)
+#### Machine Learning Fundamentals
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
+<be>
+
+#### Applied Machine Learning
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Decision-Tree-Grid-Search">Decision Tree Grid Search</a> </li>
