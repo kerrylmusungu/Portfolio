@@ -24,23 +24,23 @@ cohesive and disciplined unit.
 #### Data manipulation
 - Halloween-Candy: https://github.com/kerrylmusungu/Data-manipulation-Halloween-Candy
 - NYC payroll data: https://github.com/kerrylmusungu/Data-manipulation-NYC-Payroll
-- s
+- Fandango movie ratings: https://github.com/kerrylmusungu/Data-manipulation-Fandango-Movie-Ratings
 #### SQL and PostgreSQL
-- d
-- d
-- 4
+- Queries and databases: https://github.com/kerrylmusungu/PostgreSQL
 - 
-#### Machine Learning 
-- House price prediction
-- k
-- s
-- s
-- s
+- 
+- 
+#### Machine Learning (Prediction, Neural Network, Decision tree, Regression, Model optimization, and much more)
+- House price prediction (End to End project): https://github.com/kerrylmusungu/Home-Price-Prediction-Project
+- Exploring tree-based regression methods for 3D-Sinusoidal Data: https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data
+- Exploring Tree-Based Regression Methods for 2D Linear Data: https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data
+- Decision Tree Grid Search: https://github.com/kerrylmusungu/Decision-Tree-Grid-Search
+- Exploring 3D Sinusoidal Data using Artificial Neural Networks: https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks
+- 
 #### Data visualization with Tableau
-- d
-- d
-- d
-- d
+- Regional sales data visualization and insights storytelling: https://github.com/kerrylmusungu/Data-Visualization
+- d 
 - d
 #### Capstone Project
+- Comparison of the impact of the coronavirus pandemic by continent and country: https://github.com/kerrylmusungu/DTSC691-Capstone-Project
 
