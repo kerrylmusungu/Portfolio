@@ -40,7 +40,13 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Multiple-Linear-Regression">Multiple Linear Regression</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Polynomial-Regression">Polynomial Regression</a> </li>
-<li class="masthead__menu-item"> <a href="https://https://github.com/kerrylmusungu/Unsupervised-Learning-and-Pipeline">Unsupervised Learning and Pipeline</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Unsupervised-Learning-and-Pipeline">Unsupervised Learning and Pipeline</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Support-Vector-Machines">Support-Vector-Machines</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Classification">Classification</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Trainig-Models">Trainig-Models</a> </li>
+<li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/California-Housing-Project">California Housing Project</a> </li>
+
+
 <br>
 
 
