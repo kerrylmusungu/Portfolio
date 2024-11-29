@@ -32,7 +32,7 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/PostgreSQL">Queries and databases</a> </li>
 <br>
  
-#### Machine Learning Fundamentals
+#### Machine Learning
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Home-Price-Prediction-Project">Banglore home prices model</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data">Exploring tree-based regression methods for 3D-Sinusoidal Data</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-2D-Linear-Data">Exploring Tree-Based Regression Methods for 2D Linear Data</a> </li>
@@ -40,7 +40,9 @@ cohesive and disciplined unit.
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks">Exploring 3D Sinusoidal Data using Artificial Neural Networks</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Multiple-Linear-Regression">Multiple Linear Regression</a> </li>
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/ML-Polynomial-Regression">Polynomial Regression</a> </li>
+<li class="masthead__menu-item"> <a href="https://https://github.com/kerrylmusungu/Unsupervised-Learning-and-Pipeline">Unsupervised Learning and Pipeline</a> </li>
 <br>
+
 
 #### Data visualization with Tableau
 <li class="masthead__menu-item"> <a href="https://github.com/kerrylmusungu/Data-Visualization">Regional sales data visualization and insights storytelling</a> </li>
