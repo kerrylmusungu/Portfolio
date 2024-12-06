@@ -1,5 +1,6 @@
 
-# 🎯 Data Scientist | Data Analyst | US Citizen| Security Clearance:Secret  
+# 🎯 Data Scientist | Data Analyst 
+## US Citizen| DoD Security Clearance:Secret  
 
 Welcome to my portfolio! I am a data enthusiast with a passion for uncovering insights, solving complex problems, and driving data-driven decision-making. With expertise in Python, SQL, Tableau, and Machine Learning, I leverage data to tell compelling stories and deliver actionable solutions.
 
@@ -18,7 +19,7 @@ communication at all levels. Additionally, I possess over a decade of experience
 ---
 
 ## 🎓 Education
-- Master’s Degree in Data Science**, Eastern University (GPA: 3.6)  
+- Master’s Degree in Data Science, Eastern University (GPA: 3.6)  
 - Bachelor’s Degree in Mathematics & Computer Science**, University of Kinshasa
 - Certified  C_TS410 Business Process Integration with SAP S/4HANASt. Michael Learning Academy
 
@@ -26,12 +27,12 @@ communication at all levels. Additionally, I possess over a decade of experience
 
 ## 💼 Professional Experience
 
-### *Data Scientist | Freelance 
+### Data Scientist | Freelance 
 - Over 3 years of experience leveraging **Python** (Pandas, Sklearn, Numpy) and machine learning to solve real-world problems.  
 - Proficient in **statistical analysis**, **data visualization**, and **data mining**, with a strong ability to turn data into meaningful insights.  
 - Skilled in communicating complex technical concepts to diverse stakeholders.  
 
-### **US Armed Forces | Department of Defense**  
+### US Armed Forces | Department of Defense  
 - Leadership, Project Management & Public Policy Interpretation: Transitioned into Team Leader and Squad Leader
 roles, effectively managing 7–13 people with minimal supervision in the rear detachment at Fort Cavazos, TX, during a unit
 deployment in Romania. Took on responsibility for planning, coordinating, and overseeing resources and personnel to
