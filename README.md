@@ -1,15 +1,13 @@
-Here’s an improved and more professional version of your GitHub portfolio, with an enhanced layout and a more engaging tone:
 
-```markdown
-# 🎯 Data Scientist | Data Analyst | Problem Solver  
+# 🎯 Data Scientist | Data Analyst | US Citizen| Security Clearance:Secret  
 
 Welcome to my portfolio! I am a data enthusiast with a passion for uncovering insights, solving complex problems, and driving data-driven decision-making. With expertise in Python, SQL, Tableau, and Machine Learning, I leverage data to tell compelling stories and deliver actionable solutions.
 
 ---
 
-## 🎓 **Education**
-- **Master’s Degree in Data Science**, Eastern University (GPA: 3.6)  
-- **Bachelor’s Degree in Mathematics & Computer Science**, [Your University]  
+## 🎓 **Education
+- Master’s Degree in Data Science**, Eastern University (GPA: 3.6)  
+- Bachelor’s Degree in Mathematics & Computer Science**, University of Kinshasa  
 
 ---
 
@@ -54,19 +52,19 @@ Welcome to my portfolio! I am a data enthusiast with a passion for uncovering in
 
 ---
 
-### 📊 **Data Visualization (Tableau)**  
+### 📊 Data Visualization (Tableau)**  
 - [Regional Sales Data Visualization](https://github.com/kerrylmusungu/Data-Visualization)  
 - [Gaming Platform Revenue Insights](https://github.com/kerrylmusungu/Data-visualization-gaming_platform_revenue)  
 
 ---
 
-### 🏆 **Capstone Project**  
+### 🏆 Capstone Project**  
 - [Impact of the Coronavirus Pandemic by Continent and Country](https://github.com/kerrylmusungu/DTSC691-Capstone-Project)  
   *Analyzed the pandemic's global effects using statistical modeling and data visualization to identify key trends.*
 
 ---
 
-## 🚀 **Let’s Connect!**
+## 🚀 Let’s Connect!
 Feel free to explore my projects and reach out if you’d like to collaborate or discuss opportunities. Together, let’s make data work smarter!  
 ```
 
