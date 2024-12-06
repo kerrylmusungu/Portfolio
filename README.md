@@ -3,29 +3,52 @@
 
 Welcome to my portfolio! I am a data enthusiast with a passion for uncovering insights, solving complex problems, and driving data-driven decision-making. With expertise in Python, SQL, Tableau, and Machine Learning, I leverage data to tell compelling stories and deliver actionable solutions.
 
+STEM graduate with a master’s degree in data science (GPA 3.6) and a bachelor’s degree in mathematics and computer science,
+providing a solid foundation in business analytics, statistical modeling, and systems analysis. With over three years of experience
+working with Python for data science projects. Have a proven track record in model development, verification, and validation, and a
+passion for leveraging natural language processing (NLP), deep learning, and text mining techniques to extract actionable insights. I
+am proficient in Python for data manipulation, cleaning, and quality improvement, as well as SQL for database management and
+optimization. I have hands-on experience in applying advanced data mining techniques, deep learning frameworks, and NLP models
+to enhance decision-making and predictive analytics. My expertise extends to statistical sampling, data visualization (Tableau, Power
+BI), and managing classified data with attention to detail and compliance. My four years in the U.S. Army, where I managed assets
+worth over $5 million, further honed my skills in maintaining procedural accuracy, adherence to security protocols, and effective
+communication at all levels. Additionally, I possess over a decade of experience with Microsoft Excel.
+
+
 ---
 
-## 🎓 **Education
+## 🎓 Education
 - Master’s Degree in Data Science**, Eastern University (GPA: 3.6)  
-- Bachelor’s Degree in Mathematics & Computer Science**, University of Kinshasa  
+- Bachelor’s Degree in Mathematics & Computer Science**, University of Kinshasa
+- Certified  C_TS410 Business Process Integration with SAP S/4HANASt. Michael Learning Academy
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
-### **Data Scientist | Freelance**  
+### *Data Scientist | Freelance 
 - Over 3 years of experience leveraging **Python** (Pandas, Sklearn, Numpy) and machine learning to solve real-world problems.  
 - Proficient in **statistical analysis**, **data visualization**, and **data mining**, with a strong ability to turn data into meaningful insights.  
 - Skilled in communicating complex technical concepts to diverse stakeholders.  
 
 ### **US Armed Forces | Department of Defense**  
-- Managed accountability for assets valued at over $5 million, maintaining inventory accuracy and secure storage.  
-- Led teams of 7–13 individuals, consistently exceeding objectives while fostering collaboration and discipline.  
-- Developed excellent **time management**, **leadership**, and **team-building** skills under high-pressure environments.  
-
+- Leadership, Project Management & Public Policy Interpretation: Transitioned into Team Leader and Squad Leader
+roles, effectively managing 7–13 people with minimal supervision in the rear detachment at Fort Cavazos, TX, during a unit
+deployment in Romania. Took on responsibility for planning, coordinating, and overseeing resources and personnel to
+achieve project objectives. Ensured alignment with corporate and government standards, maintaining a safe, compliant, and
+hazard-free work environment while interpreting and adhering to public policies.
+- Data Integrity, Preventive Maintenance & Equipment Sustainability: Supervised the transport and maintenance of
+heavy equipment with a focus on operational continuity and environmental sustainability. Implemented sampling plans and
+preventive maintenance strategies to minimize downtime and extend service life, ensuring the success of construction
+projects and maintaining the integrity of mission-critical tasks.
+- Adaptability, Technical Proficiency, & Ethical Decision-Making: Adapted to evolving project demands by leveraging
+critical thinking to address unexpected challenges with an ethical approach. Incorporated novel technologies and
+methodologies to enhance construction efficiency and sustain project timelines. Committed to continuous professional
+development to support military and medical infrastructure projects, aligning with both organizational objectives and ethical
+standards.
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, R, VBA  
 - **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
 - **Tools**: Tableau, Power BI, SAP S/4HANA  
