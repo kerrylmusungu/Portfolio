@@ -50,10 +50,16 @@ standards.
 ---
 
 ## 🛠️ Technical Skills
-- Programming Languages: Python, SQL, R, PostgreSQL  
+- Programming Languages: Python, R, HTML5, CSS3 
 - Libraries & Frameworks: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras  
-- Tools: Tableau, Power BI, SAP S/4HANA, Excel  
-- Specializations: Data Cleaning, Data manipulation, Machine Learning, Data Visualization, Natural Language Processing (NLP)  
+- Visualization Tools: Tableau, Power BI, SAP S/4HANA, Excel  
+- Specializations: Data Cleaning, Data manipulation, Data Visualization, Natural Language Processing (NLP)
+- Statistical Analysis & Modeling
+- Data Analysis and Data Review Attention to Detail & Proactive
+- Time Management and task prioritization, Database Management (PostgreSQL, SQL)
+- Machine Learning (TensorFlow, Keras)
+- Teamwork and Collaboration, Effective Communication and Mentoring
+- Problem-Solving and Analytical Thinking Meeting Deadlines.
 
 ---
 
