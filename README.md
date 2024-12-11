@@ -79,7 +79,7 @@ standards.
 - [California Housing Prediction](https://github.com/kerrylmusungu/California-Housing-Project)  
 - [Support Vector Machines (SVM)](https://github.com/kerrylmusungu/Support-Vector-Machines)  
 - [Decision Tree Grid Search](https://github.com/kerrylmusungu/Decision-Tree-Grid-Search)
-- [K Fold Cross Validation Fundamental](https://github.com/kerrylmusungu/K-Fold-Cross-Validation.git))  
+- [K Fold Cross Validation Fundamental](https://github.com/kerrylmusungu/K-Fold-Cross-Validation.git)
 
 ---
 
