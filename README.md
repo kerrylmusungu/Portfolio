@@ -78,7 +78,8 @@ standards.
 - [3D Sinusoidal Data Regression](https://github.com/kerrylmusungu/ML-Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data)  
 - [California Housing Prediction](https://github.com/kerrylmusungu/California-Housing-Project)  
 - [Support Vector Machines (SVM)](https://github.com/kerrylmusungu/Support-Vector-Machines)  
-- [Decision Tree Grid Search](https://github.com/kerrylmusungu/Decision-Tree-Grid-Search)  
+- [Decision Tree Grid Search](https://github.com/kerrylmusungu/Decision-Tree-Grid-Search)
+- [K Fold Cross Validation Fundamental](https://github.com/kerrylmusungu/K-Fold-Cross-Validation.git))  
 
 ---
 
