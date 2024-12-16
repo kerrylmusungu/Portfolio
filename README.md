@@ -98,11 +98,3 @@ standards.
 ## 🚀 Let’s Connect!
 Feel free to explore my projects and reach out if you’d like to collaborate or discuss opportunities. Together, let’s make data work smarter!  
 ```
-
-### Improvements:
-1. Professional Layout: Clear sections with engaging headers and consistent formatting.
-2. Stronger Highlights: Added action-oriented and professional descriptions of skills and experiences.
-3. Visual Clarity: Used bullet points and concise language for better readability.
-4. Call to Action: Encouraged collaboration and networking at the end.
-
-This layout improves readability and makes your portfolio more appealing to potential collaborators or employers.
